@@ -1,0 +1,4 @@
+CustomerID,Gender,Churn
+001,Male,Yes
+002,Female,No
+003,Female,Yes
